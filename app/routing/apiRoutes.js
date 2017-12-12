@@ -18,8 +18,8 @@ module.exports = function(app) {
   // (ex: localhost:PORT/api/admin... they are shown a JSON of the data in the table)
   // ---------------------------------------------------------------------------
 
-  app.get("/api", function(req, res) {
-    res.json(friends);
+  app.get("/api/friends", function(req, res) {
+    return res.json(friends);
   });
 
   // API POST Requests
@@ -30,7 +30,9 @@ module.exports = function(app) {
   // Then the server saves the data to the tableData array)
   // ---------------------------------------------------------------------------
 
-  app.post("/api", function(req, res) {
-    res.json(friends);
+  app.post("/api/friends", function(req, res) {
+    var newFriend = req.body;
+    friends.push(newFriend);
+    res.json(newFriend);
   });
 };

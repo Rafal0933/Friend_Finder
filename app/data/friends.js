@@ -1,6 +1,6 @@
 var friends = [
-                {"name":"Ahmed",
-                 "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+                {"name":"Thomas Sprout",
+                 "photo":"https://pbs.twimg.com/profile_images/451489167659524096/5eHq-FXQ.jpeg",
                  "scores":[
                     "5",
                     "1",
@@ -14,8 +14,8 @@ var friends = [
                     "1"
                     ]
                 },
-                {"name":"Jacob Deming",
-                 "photo":"https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+                {"name":"Jessica Giggle",
+                 "photo":"http://www.gosuperego.com/wp-content/uploads/2014/09/Kristen-Schaal-Pic.jpg",
                  "scores":[
                     "4",
                     "2",
@@ -29,8 +29,8 @@ var friends = [
                     "2"
                     ]
                 },
-                {"name":"Jeremiah Scanlon",
-                 "photo":"https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+                {"name":"Christopher Stone",
+                 "photo":"http://hot97svg.com/wp-content/uploads/2014/12/Chris-Rock-Rolling-Out-8.jpeg",
                  "scores":[
                     "5",
                     "2",
@@ -44,8 +44,8 @@ var friends = [
                     "5"
                     ]
                 },
-                {"name":"Louis T. Delia",
-                 "photo":"https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+                {"name":"Class Clown",
+                 "photo":"https://smithsmith.files.wordpress.com/2012/09/bill_murray_you.jpeg",
                  "scores":[
                     "3",
                     "3",
@@ -59,8 +59,8 @@ var friends = [
                     "3"
                     ]
                 },
-                {"name":"Lou Ritter",
-                 "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+                {"name":"Teena Bo Bina",
+                 "photo":"https://pbs.twimg.com/profile_images/3424101570/b3190314cdeeea6989a3a5abaffb800c_400x400.jpeg",
                  "scores":[
                     "4",
                     "3",
@@ -74,8 +74,8 @@ var friends = [
                     "4"
                     ]
                 },
-                {"name":"Jordan Biason",
-                "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+                {"name":"Edward Murph",
+                "photo":"https://i.pinimg.com/originals/b2/37/3d/b2373dfd53c9a0629559ad7add22decb.jpg",
                 "scores":[
                     "4",
                     "4",
@@ -89,8 +89,8 @@ var friends = [
                     "5"
                     ]
                 },
-                {"name":"Michael",
-                 "photo":"https://pbs.twimg.com/profile_images/913102538081148928/58i0mJwi_400x400.jpg",
+                {"name":"Gayolord Focker",
+                 "photo":"https://www.pinderful.net/uploads/pins/2015/07/medium/754c6d528fe539330f6cf6f8952e94ae.jpeg",
                  "scores":[
                     "2",
                     "2",
@@ -104,8 +104,8 @@ var friends = [
                     "1"
                     ]
                 },
-                {"name":"Joshua",
-                 "photo":"link.png",
+                {"name":"Seth McDonald",
+                 "photo":"http://cdn1.alloy.com/wp-content/uploads/2014/03/Seth-McFarlane-Men-of-the-Year-Party-Los-Angeles-California-November-18-2009.jpg",
                  "scores":[
                     "3",
                     "3",
