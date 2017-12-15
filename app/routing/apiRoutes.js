@@ -32,7 +32,20 @@ module.exports = function(app) {
 
   app.post("/api/friends", function(req, res) {
     var newFriend = req.body;
+    newScore = newFriend['scores[]'];
     friends.push(newFriend);
     res.json(newFriend);
   });
 };
+
+function bestMatch (newScore) {
+    var existingList = friends;
+    console.log(existingList, "Exisiting List");
+    for(i = 0; i < friends.length; i++) {
+    var existingListScore = existingList[i].scores;
+    console.log(existingListScore, "Exisiting List Score");
+    }
+};
+
+bestMatch();
+
